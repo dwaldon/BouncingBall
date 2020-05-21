@@ -1,0 +1,9 @@
+C:\CS3160\Bounce_CS3160\bin\Debug\Bounce_CS3160.exe.config
+C:\CS3160\Bounce_CS3160\bin\Debug\Bounce_CS3160.exe
+C:\CS3160\Bounce_CS3160\bin\Debug\Bounce_CS3160.pdb
+C:\CS3160\Bounce_CS3160\obj\Debug\Bounce_CS3160.csprojAssemblyReference.cache
+C:\CS3160\Bounce_CS3160\obj\Debug\Bounce_CS3160.Form1.resources
+C:\CS3160\Bounce_CS3160\obj\Debug\Bounce_CS3160.Properties.Resources.resources
+C:\CS3160\Bounce_CS3160\obj\Debug\Bounce_CS3160.csproj.GenerateResource.cache
+C:\CS3160\Bounce_CS3160\obj\Debug\Bounce_CS3160.exe
+C:\CS3160\Bounce_CS3160\obj\Debug\Bounce_CS3160.pdb
